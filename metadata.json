@@ -1,0 +1,5 @@
+{
+  "name": "Shoholic: Your Virtual Shopping Assistant",
+  "description": "A conversational interface that helps users shop based on personal preferences, budget, and style. The LLM recommends products, suggests cart additions, and provides summaries.",
+  "requestFramePermissions": []
+}
